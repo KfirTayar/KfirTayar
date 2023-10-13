@@ -10,6 +10,7 @@
 ## Interests
 
 - 🌱 Actively seeking opportunities in the following domains:
+  
   - Full Stack Development
   - Backend Development
   - Frontend Development
