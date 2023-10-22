@@ -1,7 +1,10 @@
+<p align="center">
+<a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350" height="100"/></a>
+</p>
 <h1 align="center">Welcome to my profile
-<a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="140", height="40" style="vertical-align: middle; margin-right: 10px;"/></a><br>I'm Kfir Tayar, a passionate Software Developer</br></h1>
+<br>I'm Kfir Tayar, a passionate Software Developer</br></h1>
 
-## About Me
+## About Me 
 
 - 🎓 **B.Sc in Computer Science**.
 - 🌟 I enjoy creatively solving problems and am eager to expand my knowledge in coding.
