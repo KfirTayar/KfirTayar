@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile
-<a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="140", height="40" style="position: relative; top: 11px;"/></a><br>I'm Kfir Tayar, a passionate Software Developer</br></h1>
+<a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="140", height="40"/></a><br>I'm Kfir Tayar, a passionate Software Developer</br></h1>
 
 ## About Me
 
