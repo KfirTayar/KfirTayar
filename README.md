@@ -52,4 +52,4 @@ alt="linkedin page" height="40" width="40" /></a>
 </p>
 
 
-<p><img align="center" src="#" alt="kfirTayar" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kfirTayar&show_icons=true&title_color=010101&bg_color=FFFFFF&locale=en&layout=compact" alt="kfirTayar" /></p>
