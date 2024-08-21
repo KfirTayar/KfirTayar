@@ -51,5 +51,4 @@ alt="linkedin page" height="40" width="40" /></a>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kfirTayar&show_icons=true&title_color=010101&bg_color=FFFFFF&locale=en&layout=compact" alt="kfirTayar" /></p>
+<p></br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfirTayar&layout=donut" alt="kfirTayar"/></p>
