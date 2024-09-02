@@ -15,9 +15,9 @@
 - 🌱 Actively seeking opportunities in the following domains:
   
   - Full Stack Development
-  - Backend Development
-  - Frontend Development
+  - Backend/Frontend Development
   - Data Science
+  - Computer Vision
   - Machine Learning
 
 ## Contact
