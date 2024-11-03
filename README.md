@@ -7,7 +7,7 @@
 ## About Me 
 
 - 🎓 **B.Sc in Computer Science**.
-- 🌟 I’m passionate about uncovering insights through data and finding innovative ways to solve complex problems, with a strong drive to continuously expand my skills in data science and programming.
+- 🌟 I’m passionate about uncovering insights through data and finding innovative ways to solve complex problems.
 - 🔨 I'm currently working on **independent projects**.
 
 ## Interests
