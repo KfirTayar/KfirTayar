@@ -17,7 +17,7 @@
   - Data Science
   - Python Development
   - Machine Learning
-  - Networking
+  - Computer Networks
   - Computer Vision
 
 ## Contact
