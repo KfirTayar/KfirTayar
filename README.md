@@ -15,7 +15,9 @@
 - 🌱 Actively seeking opportunities in the following domains:
   
   - Data Science
+  - Python Development
   - Machine Learning
+  - Networking
   - Computer Vision
 
 ## Contact
