@@ -2,7 +2,7 @@
 <a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350" height="100"/></a>
 </p>
 <h1 align="center">Welcome to my profile
-<br>I'm Kfir Tayar, a passionate Data Scientist</br></h1>
+<br>I'm Kfir Tayar, a passionate</br>Data Scientist | Software Developer</br></h1>
 
 ## About Me 
 
