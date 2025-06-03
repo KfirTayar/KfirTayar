@@ -2,7 +2,7 @@
 <a href="https://github.com/KfirTayar"><img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350" height="100"/></a>
 </p>
 <h1 align="center">Welcome to my profile
-<br>I'm Kfir Tayar, a passionate</br>Data Scientist | Software Developer</br></h1>
+<br>I'm Kfir Tayar, a passionate</br>Data Scientist | Software Developer</br></br></h1>
 
 ## About Me 
 
@@ -15,9 +15,9 @@
 - 🌱 Actively seeking opportunities in the following domains:
   
   - Data Science
-  - Python Development
+  - Software Development
   - Machine Learning
-  - Computer Networking
+  - Deep Learning
   - Computer Vision
 
 ## Contact
