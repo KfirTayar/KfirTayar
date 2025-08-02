@@ -17,7 +17,7 @@
   - Data Science
   - Software Development
   - Machine Learning
-  - Deep Learning
+  - Artificial Intelligence
   - Computer Vision
 
 ## Contact
